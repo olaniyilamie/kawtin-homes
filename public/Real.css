@@ -1,0 +1,71 @@
+body{
+	font-family:'Bell MT',serif;
+}
+#contain{
+	background:linear-gradient(to top, white, #b3a394 );
+}
+a:hover{
+	color: black !important;
+	text-decoration: none !important;
+}
+#ab{
+	background-image: url("images/house5.jpg");
+	background-size:cover;
+	
+	
+}
+#ac{
+	background-color:rgba(0,0,0,0.4);
+}
+
+#op{
+	background-color:rgba(0,0,0,0.3)
+}
+a{
+	text-decoration:none;
+	color:white;
+}
+
+.img{
+	width:30px;height:30px;
+}
+
+#ba{
+	width:30px;height:30px;
+}
+#bb{
+	display:inline-block;
+}
+#bc{
+	background-color:pink;height:200px;	float:left;
+}
+#bd {
+	width:15%;height:200px; 	
+	float:left;
+}
+#be {
+	width:20%;
+	float:left;
+	text-align:center;
+
+}
+#bf {
+	width:30%;
+	float:left;
+	text-align:center;
+}
+#bg{
+	float:right;
+}
+/* #ca{ */
+	/* background-color:rgb(18,69,89); */
+/* } */
+#cb{
+	color:rgbg(239,246,224);
+	text-align:right;
+}
+.fp{
+	
+	/* width="48%",height="200px" */
+	
+}
